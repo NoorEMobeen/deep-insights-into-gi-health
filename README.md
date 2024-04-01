@@ -12,7 +12,7 @@ Explore our repository to discover the latest research in gastrointestinal healt
 
 To get started, clone our repository to your local machine using the following command: 
 
-git clone git@github.com:fahad-git/deep-insights-into-gi-health.git
+`git clone git@github.com:fahad-git/deep-insights-into-gi-health.git`
 
 **Step 2: Navigate to the Repository Directory**
 
