@@ -107,11 +107,17 @@ SOFTWARE.
 We would like to express our sincere appreciation to the following individuals for their valuable contributions and support in the development of this project:
 
 **Noor E Mobeen:** Conceptualization, methodology, data collection, original draft preparation, writing, review, and editing. 
+
 **Ali Shariq Imran:** Review and editing, supervision. 
+
 **Sher Muhammad Daudpota:** Review and editing. 
+
 **Zenun Kastrati:** Review and editing. 
+
 **Faouzi Alaya Cheikh:** Review and editing. 
+
 **Mohib Ullah:** Review and editing, supervision.
+
 **Subhan Ali:** Suggesting dataset
 
 We would also like to thank the open-source community and the creators of the libraries, frameworks, and tools that have made this project possible.
