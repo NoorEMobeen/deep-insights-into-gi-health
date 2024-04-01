@@ -122,4 +122,4 @@ We would like to express our sincere appreciation to the following individuals f
 
 We would also like to thank the open-source community and the creators of the libraries, frameworks, and tools that have made this project possible.
 
-**Note:** Test, Validate, mics modules are taken from https://arxiv.org/abs/2307.08140
+Note: Test, Validate, mics modules are taken from "GastroVision: A Multi-class Endoscopy Image Dataset for Computer Aided Gastrointestinal Disease Detection"
