@@ -34,6 +34,14 @@ After executing the installation command, verify that all dependencies were succ
 
 3. Execute the code within the notebook to perform data augmentation.
 
+### Downloading Pre-trained Model Weights
+
+You can download the pre-trained model weights from the following link:
+
+[Download Model Weights](https://drive.google.com/file/d/1w1cfpsDNhwZXAAggbLGqbdGQRDi-ECKa/view?usp=drive_link)
+
+After downloading, place the weights in the appropriate directory as instructed in the model training notebooks.
+
 **DenseNet-121 Model Training**
 1. Open the "DenseNet-121.ipynb" notebook located in the repository.
 
