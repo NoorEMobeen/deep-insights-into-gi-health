@@ -3,6 +3,25 @@
 
 Explore our repository to discover the latest research in gastrointestinal health and AI. We're using advanced technology to improve how we detect and treat digestive diseases. Our repository contains a special model we've created using deep learning. It helps make diagnosing gastrointestinal conditions more accurate and reliable. We've also collected datasets and developed smart techniques to handle data imbalances. By using explainable AI methods, we're making our models easier to understand. Whether you're a researcher, doctor, or just interested in AI, our repository has plenty of resources to help advance gastrointestinal health research.
 
+## Overall Architecture
+![Screenshot 2025-03-27 at 4 09 05 PM](https://github.com/user-attachments/assets/2d2687f0-65f0-4e63-8305-dc75db03b243)
+
+## GAN Model Architecture for Data Augmentation
+![Screenshot 2025-03-27 at 4 11 14 PM](https://github.com/user-attachments/assets/c02c1759-38dc-41ce-89e2-a4e2c6aa5963)
+
+## Greedy Soup Integration
+![Screenshot 2025-03-27 at 4 12 11 PM](https://github.com/user-attachments/assets/e69dabc9-6435-4291-bec8-6347acd357df)
+
+##
+![Screenshot 2025-03-27 at 4 16 27 PM](https://github.com/user-attachments/assets/5e9e948f-5b7a-47d6-8094-4c97f2a6714b)
+
+## Explainable AI Results
+### SHAP
+![Screenshot 2025-03-27 at 4 13 51 PM](https://github.com/user-attachments/assets/0860192c-401e-48d9-97be-d413e37cffcd)
+### GradCAM
+![Screenshot 2025-03-27 at 4 14 05 PM](https://github.com/user-attachments/assets/68575cdb-f7f0-401d-b7b2-608a087248d0)
+
+
 ## Installation
 
  By following these simple steps, you'll be equipped to delve into the depths of digestive health and harness the power of deep learning to revolutionize disease detection and treatment.
@@ -23,7 +42,6 @@ Once the repository is cloned, navigate to the directory containing the reposito
 
 
 **Step 3: Install Dependencies**
-
 
 With the repository directory as your current working directory, install all the required dependencies by running the following command:
 
