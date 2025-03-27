@@ -3,6 +3,8 @@
 
 Explore our repository to discover the latest research in gastrointestinal health and AI. We're using advanced technology to improve how we detect and treat digestive diseases. Our repository contains a special model we've created using deep learning. It helps make diagnosing gastrointestinal conditions more accurate and reliable. We've also collected datasets and developed smart techniques to handle data imbalances. By using explainable AI methods, we're making our models easier to understand. Whether you're a researcher, doctor, or just interested in AI, our repository has plenty of resources to help advance gastrointestinal health research.
 
+Paper URL: https://www.sciencedirect.com/science/article/pii/S1746809424013181
+
 ## Overall Architecture
 ![Screenshot 2025-03-27 at 4 09 05 PM](https://github.com/user-attachments/assets/2d2687f0-65f0-4e63-8305-dc75db03b243)
 
