@@ -126,7 +126,7 @@ SOFTWARE.
 
 We would like to express our sincere appreciation to the following individuals for their valuable contributions and support in the development of this project:
 
-**Noor E Mobeen:** Conceptualization, methodology, data collection, original draft preparation, writing, review, and editing. 
+**Fahad Siddique:** Conceptualization, methodology, data collection, original draft preparation, writing, review, and editing. 
 
 **Ali Shariq Imran:** Review and editing, supervision. 
 
